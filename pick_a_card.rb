@@ -13,3 +13,6 @@ puts "#{values.sample} of #{suits.sample}"
 # команда вывода последних двух коммитов: git log -2
 # команда переключения на ветку мастер: git checkout master
 # потом команда get pull возьмет проект с git hub
+# зафиксировал гитом изменения в файле pick_a_card командой: git add pick_a_card
+# сделал коммит командой: git commit -m "new version"
+# отправил коммит на сервер командой git push
